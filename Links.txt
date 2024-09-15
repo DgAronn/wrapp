@@ -1,0 +1,9 @@
+//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=1862111613
+//support-url: https://t.me/hiddify
+//profile-web-page-url: https://hiddify.com
+
+
+
+trojan://c492495f-5ca6-4be7-b83b-ef6213d69f4d@104.18.3.2:443/?security=tls&type=ws&host=hk1.trojanvpn.de&headerType=none&path=%2fwebsocket&sni=hk1.trojanvpn.de#Link
